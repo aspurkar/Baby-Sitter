@@ -1,0 +1,10 @@
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\Businesslogic.exe.config
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\Businesslogic.exe
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\Businesslogic.pdb
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\BusinessObject.exe
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\DataLayer.exe
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\BusinessObject.pdb
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\bin\Debug\DataLayer.pdb
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\obj\Debug\Businesslogic.csprojResolveAssemblyReference.cache
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\obj\Debug\Businesslogic.exe
+c:\users\aditya\documents\visual studio 2015\Projects\BabySitter\Businesslogic\obj\Debug\Businesslogic.pdb
